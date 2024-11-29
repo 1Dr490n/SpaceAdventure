@@ -1,0 +1,4 @@
+Barrel roll left:   A
+Barrel roll right:  D
+Shoot:              SPACE
+Pause/Continue:     ESCAPE
